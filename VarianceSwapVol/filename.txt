@@ -1,0 +1,4 @@
+data\\20171010.csv
+data\\20171011.csv
+data\\20171012.csv
+data\\20171013.csv

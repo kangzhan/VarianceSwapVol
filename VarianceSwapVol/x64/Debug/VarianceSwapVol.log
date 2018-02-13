@@ -1,0 +1,11 @@
+﻿  VarianceSwapVol.cpp
+f:\c++_workspace\vs\varianceswapvol\varianceswapvol\varianceswapvol.cpp(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\c++_workspace\vs\varianceswapvol\varianceswapvol\varianceswapvol.cpp(103): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+f:\c++_workspace\vs\varianceswapvol\varianceswapvol\varianceswapvol.cpp(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\c++_workspace\vs\varianceswapvol\varianceswapvol\varianceswapvol.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+  VarianceSwapVol.vcxproj -> F:\C++_WorkSpace\VS\VarianceSwapVol\x64\Debug\VarianceSwapVol.exe
+  VarianceSwapVol.vcxproj -> F:\C++_WorkSpace\VS\VarianceSwapVol\x64\Debug\VarianceSwapVol.pdb (Partial PDB)
